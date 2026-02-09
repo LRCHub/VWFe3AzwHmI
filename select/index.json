@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "幸せになるよ",
+  "base_artist": "ミカ(CV:東山奈央)",
+  "createdAt": "2026-02-09T16:36:11.527474Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せになるよ",
+      "artist": "ミカ(CV:東山奈央)",
+      "has_synced": false,
+      "path": "select/pl_01_幸せになるよ_ミカ(CV_東山奈央).txt"
+    }
+  ]
+}
